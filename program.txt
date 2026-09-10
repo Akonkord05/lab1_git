@@ -1,2 +1,3 @@
 Version 1
 STATUS=OK
+FEATURE_A=ON
